@@ -1,0 +1,170 @@
+[
+    {
+        "distMin": 0,
+        "distMax": 4,
+        "weightMin": 0,
+        "weightMax": 2,
+        "Amount": 12
+    },
+    {
+        "distMin": 2,
+        "distMax": 19,
+        "weightMin": 0,
+        "weightMax": 2,
+        "Amount": 15
+    },
+    {
+        "distMin": 20,
+        "distMax": 49,
+        "weightMin": 0,
+        "weightMax": 2,
+        "Amount": 20
+    },
+    {
+        "distMin": 50,
+        "distMax": 499,
+        "weightMin": 0,
+        "weightMax": 2,
+        "Amount": 50
+    },
+    {
+        "distMin": 500,
+        "distMax": 800,
+        "weightMin": 0,
+        "weightMax": 2,
+        "Amount": 100
+    },
+    {
+        "distMin": 800,
+        "distMax": -1,
+        "weightMin": 0,
+        "weightMax": 2,
+        "Amount": 220
+    },
+    {
+        "distMin": 0,
+        "distMax": 4,
+        "weightMin": 2.01,
+        "weightMax": 5,
+        "Amount": 14
+    },
+    {
+        "distMin": 2,
+        "distMax": 19,
+        "weightMin": 2.01,
+        "weightMax": 5,
+        "Amount": 18
+    },
+    {
+        "distMin": 20,
+        "distMax": 49,
+        "weightMin": 2.01,
+        "weightMax": 5,
+        "Amount": 24
+    },
+    {
+        "distMin": 50,
+        "distMax": 499,
+        "weightMin": 2.01,
+        "weightMax": 5,
+        "Amount": 55
+    },
+    {
+        "distMin": 500,
+        "distMax": 800,
+        "weightMin": 2.01,
+        "weightMax": 5,
+        "Amount": 110
+    },
+    {
+        "distMin": 800,
+        "distMax": -1,
+        "weightMin": 2.01,
+        "weightMax": 5,
+        "Amount": 250
+    },
+    {
+        "distMin": 0,
+        "distMax": 4,
+        "weightMin": 5.01,
+        "weightMax": 20,
+        "Amount": 16
+    },
+    {
+        "distMin": 2,
+        "distMax": 19,
+        "weightMin": 5.01,
+        "weightMax": 20,
+        "Amount": 25
+    },
+    {
+        "distMin": 20,
+        "distMax": 49,
+        "weightMin": 5.01,
+        "weightMax": 20,
+        "Amount": 30
+    },
+    {
+        "distMin": 50,
+        "distMax": 499,
+        "weightMin": 5.01,
+        "weightMax": 20,
+        "Amount": 80
+    },
+    {
+        "distMin": 500,
+        "distMax": 800,
+        "weightMin": 5.01,
+        "weightMax": 20,
+        "Amount": 130
+    },
+    {
+        "distMin": 800,
+        "distMax": -1,
+        "weightMin": 5.01,
+        "weightMax": 20,
+        "Amount": 270
+    },
+    {
+        "distMin": 0,
+        "distMax": 4,
+        "weightMin": 20.01,
+        "weightMax": -1,
+        "Amount": 21
+    },
+    {
+        "distMin": 2,
+        "distMax": 19,
+        "weightMin": 20.01,
+        "weightMax": -1,
+        "Amount": 35
+    },
+    {
+        "distMin": 20,
+        "distMax": 49,
+        "weightMin": 20.01,
+        "weightMax": -1,
+        "Amount": 50
+    },
+    {
+        "distMin": 50,
+        "distMax": 499,
+        "weightMin": 20.01,
+        "weightMax": -1,
+        "Amount": 90
+    },
+    {
+        "distMin": 500,
+        "distMax": 800,
+        "weightMin": 20.01,
+        "weightMax": -1,
+        "Amount": 150
+    },
+    {
+        "distMin": 800,
+        "distMax": -1,
+        "weightMin": 20.01,
+        "weightMax": -1,
+        "Amount": 300
+    }
+]
